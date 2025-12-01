@@ -14,7 +14,7 @@ The project focuses on layout and styling. The search bar is built with semantic
 ## How to Run
 1. Clone or download the project:
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/saleha905/search_bar.git
 2. Open index.html in your browser
 
 3. Type into the search bar to test the UI
